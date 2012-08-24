@@ -1,4 +1,4 @@
-Simplersnet.com
+Simplersnet.org
 ===============
 
 My homepage
